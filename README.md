@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, Python, HTML, CSS  
-- **Frameworks**: React JS, Node.js
+- **Frameworks**: React.jS, Node.js
 - **Databases**: SQL
 - **Tools**: Git, GitHub, VS Code  
 - **Domains**: Full-Stack Development, Machine Learning, Web Development
