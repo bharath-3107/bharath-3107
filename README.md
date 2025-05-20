@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharath Kumar Padira
 
-<!--
-**bharath-3107/bharath-3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in **Computer Science and Engineering** from *Vaagdevi College of Engineering*.
 
-Here are some ideas to get you started:
+💡 I’m passionate about building robust and scalable **Full-Stack Web Applications** using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Languages**: JavaScript, Python, HTML, CSS  
+- **Frameworks**: React JS, Node.js
+- **Databases**: SQL
+- **Tools**: Git, GitHub, VS Code  
+- **Domains**: Full-Stack Development, Machine Learning, Web Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath-3107&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-3107&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: bharathpadira18@gmail.com  
+- 📞 Phone: 8978848205  
+- 💼 LinkedIn: [bharathkumar-padira](https://www.linkedin.com/in/bharathkumar-padira)
+
+---
+
+Thanks for visiting my profile! Feel free to connect. 🚀
