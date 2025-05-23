@@ -12,7 +12,7 @@
 - **Frameworks**: React.js, Node.js
 - **Databases**: SQL
 - **Tools**: Git, GitHub, VS Code  
-- **Domains**: Full-Stack Development, Machine Learning, Web Development
+- **Domains**: Full-Stack Development, Web Development, Frontend Development, Backend Development 
 
 ---
 
